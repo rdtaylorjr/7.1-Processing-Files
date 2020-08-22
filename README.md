@@ -1,2 +1,2 @@
-# 7.1-7.2-Processing-Files
+# 7.1-Processing-Files
 School Project for Python Data Structures at the University of Michigan (Coursera)
